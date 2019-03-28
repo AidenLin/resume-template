@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # My Resume
 
 [html.love](http://html.love)
@@ -31,6 +32,10 @@ $ gulp
 ## LICENSE
 
 MIT © [DIYgod](http://github.com/DIYgod)
+=======
+# resume-template
+study online cv
+>>>>>>> 3e2e557e64f94452924081633e4849d0a7fbd3d1
 =======
 # resume-template
 study online cv
